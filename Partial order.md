@@ -1,0 +1,1 @@
+A partial order on a [[set]] means only parts of the elements can be compared.

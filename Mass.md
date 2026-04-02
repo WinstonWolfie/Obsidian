@@ -1,0 +1,1 @@
+In modern physics, mass is generally defined as the strength of an object's [[gravity|gravitational]] attraction to other bodies.

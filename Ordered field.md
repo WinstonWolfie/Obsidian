@@ -1,0 +1,1 @@
+[Rational number]]s and [[real number]]s are ordered fields. This means the rules of [[elementary arithmetic]] apply to them. They have a [[total order]], which means any two elements can be compared.

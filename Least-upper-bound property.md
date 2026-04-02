@@ -1,0 +1,1 @@
+Also called Dedekind completeness, it states that every non-empty subset $M$ of the [[real number]]s $\mathbb{R}$ which is bounded from above has a least upper bound. It's a fundamental property of the real numbers. In comparison, [[rational number]]s are not Dedekind complete, since they have "gaps" ([[irrational number]]s). Also see [[Complete metric space]].

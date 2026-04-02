@@ -1,0 +1,1 @@
+A space is complete if there are no "points missing" from it (inside or at the boundary). For instance, the set of [[rational number]]s is not complete, because e.g. $\sqrt 2$ is "missing" from it. In contrast, [[real number]]s (and by extension [[complex number]]s) are complete.

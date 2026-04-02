@@ -1,0 +1,1 @@
+A transcendental number is a [[real number]] or [[complex number]] that is not [[algebraic number|algebraic]]. It's uncountable, since real numbers are uncountable (Cantor's diagonal argument), and real numbers are the union of algebraic and transcendental numbers; they can't be both countable.

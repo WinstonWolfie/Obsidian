@@ -1,0 +1,1 @@
+An algebraic number is a number that is a root of a non-zero [[polynomial]] in one variable with [[integer]] coefficients.
