@@ -1,0 +1,1 @@
+Informally, a set is a collection of things, known as [[element]]s. In [[Zermelo–Fraenkel set theory with the axiom of choice included|ZFC]], a set is not defined, like [[point]] and [[line]] [[Euclidean geometry]].

@@ -9,4 +9,4 @@ $$
  \end{alignat}
 $$
 
-thus, von Neumann ordinals are defined recursively as $0=\emptyset, 1=\{0\}, 2=\{0,1\},$ etc.
+thus, von Neumann ordinals are defined recursively as $0=\emptyset, 1=\{0\}, 2=\{0,1\},$ etc. This is in accordance with the [[axiom of infinity]].
