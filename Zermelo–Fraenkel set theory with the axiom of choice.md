@@ -1,0 +1,1 @@
+Abbreviated ZFC. See [[Zermelo–Fraenkel set theory|ZF]] and [[axiom of choice]].

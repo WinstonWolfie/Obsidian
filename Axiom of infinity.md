@@ -6,4 +6,4 @@ $$
 \exists X \left [\varnothing \in X \land \forall y (y \in X \Rightarrow S(y)  \in X)\right].
 $$
 
-It's an axiom of [[Zermelo–Fraenkel set theory with the axiom of choice included|ZFC]].
+It's an axiom of [[Zermelo–Fraenkel set theory with the axiom of choice|ZFC]].

@@ -1,1 +1,0 @@
-Abbreviated ZFC; ZF refers to Zermelo–Fraenkel set theory with the [[axiom of choice]] excluded.

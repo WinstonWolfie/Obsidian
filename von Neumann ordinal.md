@@ -10,3 +10,5 @@ $$
 $$
 
 thus, von Neumann ordinals are defined recursively as $0=\emptyset, 1=\{0\}, 2=\{0,1\},$ etc. This is in accordance with the [[axiom of infinity]].
+
+A consequence of this definition is that every [[natural number]] is equal to the [[set]] of all preceding natural numbers.
