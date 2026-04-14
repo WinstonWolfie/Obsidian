@@ -1,0 +1,1 @@
+A subset is a portion of a [[set]]. $B$ is a subset of $A$ (written $B \subseteq A$) [[iff]] every [[element|member]] of $B$ is a member of $A.$ If $B$ is a [[proper subset]] of $A$ (ie, a subset other than the set itself), this is written $B \subset A.$

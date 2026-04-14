@@ -1,1 +1,4 @@
-addition, subtraction, multiplication, and division
+- addition
+- subtraction
+- multiplication
+- division
