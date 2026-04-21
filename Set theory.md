@@ -1,4 +1,4 @@
-// Confer Analysis I by Terence Tao.
+// Cf Analysis I by Terence Tao.
 
 ## Fundamentals
 

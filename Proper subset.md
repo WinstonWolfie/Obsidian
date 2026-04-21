@@ -1,0 +1,1 @@
+A proper subset $S'$ of a [[set]] $S$, denoted $S' \subset S$, is a [[subset]] that is strictly contained in $S$ and excludes at least one [[element|member]] of $S$. The [[empty set]] is therefore a proper subset of any nonempty set.
