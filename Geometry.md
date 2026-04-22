@@ -1,0 +1,1 @@
+Geometry is the study of figures in a [[space]] of a given number of [[dimension]]s and of a given type. Figures could be plane figures (2D), or solid figures (3D). The type could be [[Euclidean geometry]], [[non-Euclidean geometry]].
