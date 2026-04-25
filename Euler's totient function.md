@@ -2,6 +2,8 @@
 
 Note that for any [[prime number]], $\varphi(p)=p-1.$
 
+***
+
 Little anecdote: My first Obsidian vault also has this note:
 
 > Euler's totient function counts how many positive integers there are up to $n,$ which are coprime to $n.$

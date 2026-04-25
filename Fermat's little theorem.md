@@ -14,6 +14,8 @@ $$
 
 multiplied by $a$ on both sides gives $a^p \equiv a \pmod p.$
 
+***
+
 Anecdote: In my first Obsidian vault it looks like this:
 
 > The original statement is $a^{p-1} \equiv 1 \pmod{p},$ where $a$ is an integer, $p$ is a prime number, and $a$ isn't divisible by $p.$
@@ -24,15 +26,15 @@ Anecdote: In my first Obsidian vault it looks like this:
 >
 > ## Combinatoric proof
 >
-> Ask yourself: How many ways you can choose 5 balls from 2 bags with ball $A$ and ball $B$, each bag with 5 balls? If we list it out it's quite clear:
+> Ask yourself: How many ways you can choose 5 balls from 2 bags with ball $A$ and ball $B,$ each bag with 5 balls? If we list it out it's quite clear:
 >
-	$AAAAB, AAABA, AABAA, ABAAA, BAAAA,$
-	$AAABB, AABBA, ABBAA, BBAAA, BAAAB,$
-	$AABAB, ABABA, BABAA, ABAAB, BAABA,$
-	$AABBB, ABBBA, BBBAA, BBAAB, BAABB,$
-	$ABABB, BABBA, ABBAB, BBABA, BABAB,$
-	$ABBBB, BBBBA, BBBAB, BBABB, BABBB,$
-	$AAAAA,$
-	$BBBBB.$
+>> $AAAAB, AAABA, AABAA, ABAAA, BAAAA,$
+>> $AAABB, AABBA, ABBAA, BBAAA, BAAAB,$
+>> $AABAB, ABABA, BABAA, ABAAB, BAABA,$
+>> $AABBB, ABBBA, BBBAA, BBAAB, BAABB,$
+>> $ABABB, BABBA, ABBAB, BBABA, BABAB,$
+>> $ABBBB, BBBBA, BBBAB, BBABB, BABBB,$
+>> $AAAAA,$
+>> $BBBBB.$
 >
 > Leaving $AAAAA$ and $BBBBB,$ thus the remainder is 2.
