@@ -1,0 +1,1 @@
+Carburising is a heat treatment process in which [[iron]] or [[steel]] absorbs [[carbon]] while the metal is heated in the presence of a carbon-bearing material, such as [[charcoal]] or [[carbon monoxide]].

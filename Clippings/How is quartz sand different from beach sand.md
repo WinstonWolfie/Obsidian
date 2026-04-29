@@ -1,13 +1,12 @@
 ---
-title: "How is quartz sand different from beach sand?"
-source: "https://pratibharefractory.com/how-is-quartz-sand-different-from-beach-sand/"
+title: How is quartz sand different from beach sand?
+source: https://pratibharefractory.com/how-is-quartz-sand-different-from-beach-sand/
 author:
-  - "[[Pratibha Refractory Minerals]]"
 published: 2023-11-14
 created: 2026-04-26
-description: "Learn how quartz sand is different from beach sand, including composition, purity, uses, and why quartz sand is preferred for industrial applications."
+description: Learn how quartz sand is different from beach sand, including composition, purity, uses, and why quartz sand is preferred for industrial applications.
 tags:
-  - "clippings"
+  - clippings
 ---
 ![Supplier of Quartz Grit](https://pratibharefractory.com/wp-content/uploads/2023/07/Untitled-design-5.png)
 
