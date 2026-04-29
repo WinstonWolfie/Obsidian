@@ -1,4 +1,4 @@
-A power series is an [[infinite series]] of the form
+A power [[series]] is an [[infinite series]] of the form
 
 $$
 \sum_{n=0}^\infty a_n \left(x - c\right)^n = a_0 + a_1 (x - c) + a_2 (x - c)^2 + \dots
