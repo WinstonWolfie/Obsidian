@@ -1,1 +1,1 @@
-In [[susy]], it's possible to start producing oxygen in [[steam age]]: [[roaster|Roasting]] [[acanthite]] and a tiny pile of [[calcite]] dust together with [[air]] will get you [[silver oxide]] and some [[sulphur dioxide]]. Further roast silver oxide will yield [[silver]] dust and oxygen gas.
+In [[susy]], oxygen production starts at [[LV]]: [[roaster|Roasting]] [[acanthite]] and a tiny pile of [[calcite]] dust together with [[air]] will get you [[silver oxide]] and some [[sulphur dioxide]]. Further roast silver oxide will yield [[silver]] dust and oxygen gas.
