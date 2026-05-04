@@ -1,1 +1,1 @@
-In [[susy]], oxygen production starts at [[LV]]: [[roaster|Roasting]] [[acanthite]] and a tiny pile of [[calcite]] dust together with [[air]] will get you [[silver oxide]] and some [[sulfur dioxide]]. Further roast silver oxide will yield [[silver]] dust and oxygen gas.
+In [[Susy]], oxygen production starts at [[LV]]: [[roaster|Roasting]] [[acanthite]] and a tiny pile of [[calcite]] dust together with [[air]] will get you [[silver oxide]] and some [[sulfur dioxide]]. Further roast silver oxide will yield [[silver]] dust and oxygen gas.
