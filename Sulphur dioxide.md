@@ -1,1 +1,0 @@
-In [[susy]], [[sulphur]] dioxide is a byproduct of many industrial processes, for example [[roaster|roasting]] [[pyrite]] or [[acanthite]]. A more efficient way involves [[mixer|mixing]] sulphur dioxide with [[air]] to get [[Glover tower mixture]]. See more: [[Lead chamber process]].

@@ -1,1 +1,0 @@
-In [[susy]], [[sulphur]] trioxide is a byproduct from [[roaster|roasting]] [[iron sulphate]], a crucial step to acquire [[sulphuric acid]], doable in [[steam age]]. It also can be made from [[sulphur dioxide]] and [[oxygen]] in a roaster, with [[vanadium pentoxide]] (unlocked in [[MV]]) as catalyst.

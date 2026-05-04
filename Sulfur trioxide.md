@@ -1,0 +1,1 @@
+In [[susy]], the primary way to make [[sulfur]] [[trioxide]] in [[steam age]] is from [[roaster|roasting]] [[iron sulfate]]. In [[LV]], roasting [[potassium bisulfate]] also yields sulfur trioxide. It also can be made from [[sulfur dioxide]] and [[oxygen]] in a roaster, with [[vanadium pentoxide]] (unlocked in [[MV]]) as catalyst.
