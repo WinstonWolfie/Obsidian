@@ -4,4 +4,4 @@ It was first developed in 1746, and replaced the the [[glass]] container used be
 
 [[Sulfur dioxide]] is introduced with [[steam]] and [[nitrogen dioxide]] into large chambers lined with sheet [[lead]] where the gases are sprayed down with [[water]] and [[chamber acid]] (62–70% sulfuric acid). The sulfur dioxide and nitrogen dioxide dissolve, and over a period of approximately 30 minutes the sulfur dioxide is oxidized to sulfuric acid. The presence of nitrogen dioxide is necessary for the reaction to proceed at a reasonable rate. The process is highly [[exothermic]].
 
-In [[Susy]], chamber acid, [[nitrosylsulfuric acid]] and [[Glover tower mixture]] can be [[batch reactor|batch reacted]] to produce [[lead chamber reaction mixture]] and sulfuric acid.
+In [[Susy]], reacting chamber acid, [[nitrosylsulfuric acid]] and [[Glover tower mixture]] together produces [[lead chamber reaction mixture]] and sulfuric acid.
