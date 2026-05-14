@@ -1,0 +1,1 @@
+[[Sulfur]] [[vulcanisation]] is a chemical process for converting [[natural rubber]] or related [[polymer]]s into materials of varying hardness, elasticity, and mechanical durability by heating them with sulfur or sulfur-containing compounds.
